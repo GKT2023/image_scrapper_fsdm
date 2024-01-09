@@ -1,0 +1,6 @@
+1. create a folder in your system
+2. open the folder with vscode
+3. clone repo which contains all code
+4. delete .git and .github folder, if it someone else repo
+5. install all packages using requirements.txt --> pip install requirements.txt
+6. run app.py
